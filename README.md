@@ -1,5 +1,8 @@
 # Laravel-admin_lohaslife_Interview
 Laravel-admin 多國語言切換
+<p>用多語系需求要符合編輯頁面、文章、文章分類、幻燈片的中/英語系內容。 
+翻譯網站選單、一般設定的文字內容。</p>
+<p>使用前台語系選擇器切換當前頁面的語言。 偵測前台使用者瀏覽器並導向相關語系頁面。</p>
 
 <hr>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
