@@ -96,6 +96,7 @@ return [
     |
     */
 
+    // 'fallback_locale' => 'zh-TW',
     'fallback_locale' => 'en',
 
     /*
